@@ -1,0 +1,40 @@
+.banner{
+    background-image: url("../resources/imgs/front-banner.jpg");
+    height: 600px;
+}
+
+section{
+    margin-bottom: 20px;
+}
+
+.bg-fr-blue{
+    background-color: #0055A4;
+}
+.bg-fr-red{
+    background-color: #EF4135;
+}
+.fr-flag-row{
+    height: 300px;
+    position: relative;
+}
+
+.bg-fr-logo{
+    /* background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Coat_of_Arms_Second_French_Empire_%281852%E2%80%931870%29-2.svg/1200px-Coat_of_Arms_Second_French_Empire_%281852%E2%80%931870%29-2.svg.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center; */
+}
+
+.bg-img-holder{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -120px;
+    margin-left: -100px;
+    z-index: -1;
+    opacity: 0.3;
+}
+
+.france-title{
+    padding: 100px 0;
+}
