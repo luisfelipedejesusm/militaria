@@ -1,6 +1,6 @@
 .banner{
     background-image: url("../resources/imgs/front-banner.jpg");
-    height: 600px;
+    height: 800px;
 }
 
 section{
@@ -37,4 +37,16 @@ section{
 
 .france-title{
     padding: 100px 0;
+}
+
+#guerre-fa-banner, #guerre-fa-banner>.bg-image{
+    height: 300px;
+}
+
+#guerre-fa-banner>.bg-image{
+    background-image: url("../resources/imgs/guerre-fa-banner.png");
+}
+
+#guerre-fa-banner{
+    margin: 20px 0 20px 0;
 }
